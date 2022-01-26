@@ -120,6 +120,25 @@
     },
     {
       "id": "12"
+    },
+    {
+      "name": "tt",
+      "species": "doggo",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "tt",
+      "species": "doggo",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
     }
   ]
 }
